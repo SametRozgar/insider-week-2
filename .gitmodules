@@ -1,0 +1,12 @@
+[submodule "Todo-List-insider"]
+	path = Todo-List-insider
+	url = https://github.com/SametRozgar/Todo-List-insider
+[submodule "Counter-Strike-Bomb-Counter"]
+	path = Counter-Strike-Bomb-Counter
+	url = https://github.com/SametRozgar/Counter-Strike-Bomb-Counter
+[submodule "Longest-Collatz-Sequence"]
+	path = Longest-Collatz-Sequence
+	url = https://github.com/SametRozgar/Longest-Collatz-Sequence
+[submodule "Simple_javascript_Console_Product_Cart"]
+	path = Simple_javascript_Console_Product_Cart
+	url = https://github.com/SametRozgar/Simple_javascript_Console_Product_Cart
